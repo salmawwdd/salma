@@ -1,4 +1,4 @@
-git add .# hello world okey
+git add . hello world okey
 
 # hello 
 
